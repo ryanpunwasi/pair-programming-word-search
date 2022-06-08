@@ -1,3 +1,5 @@
+// Pair programmed by Boluwatife and Ryan
+
 const chai = require('chai');
 const assert = chai.assert;
 
